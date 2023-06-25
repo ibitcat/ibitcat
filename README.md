@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**domixcat/domixcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bitvcat/bitvcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/domixcat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=domixcat&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=domixcat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bitvcat&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bitvcat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
